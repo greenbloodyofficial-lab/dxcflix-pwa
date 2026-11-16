@@ -1,0 +1,33 @@
+{
+  "id": "https://dxcflixstudio.blogspot.com/",
+  "name": "DXCFlix Studio",
+  "short_name": "DXCFlix",
+  "description": "DXCFlix Studio - Sinhala tech tutorials, reviews and tricks",
+  "start_url": "https://dxcflixstudio.blogspot.com/",
+  "scope": "https://dxcflixstudio.blogspot.com/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0f15",
+  "theme_color": "#03B9E9",
+  "lang": "si",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
