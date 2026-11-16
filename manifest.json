@@ -29,13 +29,5 @@
       "type": "image/png",
       "purpose": "maskable"
     }
-  ],
-  "shortcuts": [
-    {
-      "name": "Latest posts",
-      "short_name": "Latest",
-      "description": "අලුත්ම posts බලන්න",
-      "url": "https://dxcflixstudio.blogspot.com/search?max-results=12",
-      "icons": [
-        {
-          "src": "icon-192.png",
+  ]
+}
